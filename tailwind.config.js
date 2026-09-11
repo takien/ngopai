@@ -3,6 +3,9 @@ module.exports = {
   content: ["./index.html"],
   theme: {
     extend: {
+      fontFamily: {
+        classic: ['Georgia', 'Cambria', '"Times New Roman"', 'Times', 'serif'],
+      },
       colors: {
         coffee: {
           50: '#FDFBF7',  /* Warm Cream Background */

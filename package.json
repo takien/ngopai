@@ -2,7 +2,7 @@
   "name": "ngopai-web",
   "version": "1.0.0",
   "private": true,
-  "description": "ngopai.com — NGOding PAIkai AI landing page",
+  "description": "ngopai.com — NGOding Pakai AI landing page",
   "scripts": {
     "build:css": "tailwindcss -i ./src/input.css -o ./css/styles.css --minify",
     "watch:css": "tailwindcss -i ./src/input.css -o ./css/styles.css --watch"
